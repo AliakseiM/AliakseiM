@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Golang back-end developer, experienced in web and API development, have experience with JavaScript (ReactJS) and iOS Swift development.
+I'm a back-end developer, experienced in web and API development, mostly working with Go and have some experience with JavaScript (ReactJS) and iOS Swift development.
 Familiar with application containerization and orchestration tools such as Docker and Kubernetes. 
 
 Key areas of expirience:
