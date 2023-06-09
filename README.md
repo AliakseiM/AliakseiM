@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer, experienced in web and mobile development, mostly working with Go (APIs, microservices) and Swift (SwiftUI) development.
+I'm a developer, experienced in web and mobile development, mostly working with Go (APIs, microservices) and Swift (SwiftUI).
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mihailovsky/)
 
