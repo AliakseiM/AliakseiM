@@ -2,8 +2,13 @@
 
 I'm a developer, experienced in web and mobile development, mostly working with Go (APIs, microservices) and Swift (SwiftUI).
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mihailovsky/)
-- 📱 My Apps: [ AppStore](https://apps.apple.com/my/developer/aliaksei-mikhailouski/id1682692291/)
+- My Apps: [ AppStore](https://apps.apple.com/my/developer/aliaksei-mikhailouski/id1682692291/)
+- Codewars Profile: [aliakseiM](https://www.codewars.com/users/aliakseiM)
+
+Contact:
+- [LinkedIn](https://www.linkedin.com/in/mihailovsky/)
+- [alexey.mihailovsky@gmail.com](mailto:alexey.mihailovsky@gmail.com)
+
 
 <!--
 **AliakseiM/AliakseiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
